@@ -33,6 +33,9 @@
 
 ![](./img/readme-4.png)
 
+添加你的股票代码， 在`Name` 处输入 `STOCKS` ， `Value` 处输入你的多个股票代码，中间以空格隔开, 例如：`sh.000001 sh.000002`
+点击`Add secret`
+
 #### 3.开启 Actions
 如图所示
 
